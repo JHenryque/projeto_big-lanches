@@ -56,3 +56,7 @@ int main() {
 void entradaLogin() {
     
 }
+
+void cadastroUsuario() {
+    
+}
