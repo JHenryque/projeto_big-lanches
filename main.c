@@ -46,6 +46,8 @@ typedef struct{
 
 lista protudo[TOTAL];
 
+void entradaLogin();
+
 int main() {
     
     return 0;
