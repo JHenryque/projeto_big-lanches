@@ -22,7 +22,7 @@ typedef struct{
     int numeroCasa;
     char tel[LIMINT];
     char barrio[LIMINT];
-    usuarioConta login[TOTAL];
+    usuarioConta openLogin[TOTAL];
 }conta;
 
 conta usuario[TOTAL];
